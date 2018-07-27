@@ -1,0 +1,20 @@
+::placeholder {
+	color: gray;
+	color: red;
+}
+
+h1 {
+	color: blue;
+}
+
+a {
+	color: red;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+
